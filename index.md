@@ -1,7 +1,0 @@
-###Project Description
-I will be researching how efficiently an electric kettle converts electrical energy into thermal energy in the water. I will be using the amazonbasics 1 liter electric kettle, which produces 1500 watts of power. The kettle boils the water, which requires a water temperature of 100 degrees Celsius.
-
-My initial research question is, “How efficiently does this kettle use power to boil water?” To find this, I will take the temperature of water before adding to the kettle, and then heat the water to boiling at various volumes, measuring the time it takes for the kettle to automatically stop.
-
-###Data
-
