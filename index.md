@@ -1,8 +1,8 @@
-### Research Question
+#### Research Question
 
 What percentage of energy consumed by my home electric kettle is directly converted to thermal energy in the water? Does this change as the mass of water used increases?
 
-### Data
+#### Data
 
 | Test | Water Mass | Initial Temperature | Final Temperature | Increase in Temperature | Heating Time |
 |------|------------|---------------------|-------------------|-------------------------|--------------|
