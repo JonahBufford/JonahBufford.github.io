@@ -4,6 +4,8 @@ What percentage of energy consumed by my home electric kettle is directly conver
 
 #### Data
 
+This table shows the raw measurements taken during the tests. Temperature was taken with a Farenheit thermometer and converted to Celsius. Initial temperature was taken right before heating, with the water in the kettle, and final temperature was taken right after heating. The time was calculated from the heating process being started until the kettle clicked off.
+
 | Test | Water Mass | Initial Temperature | Final Temperature | Increase in Temperature | Heating Time |
 |------|------------|---------------------|-------------------|-------------------------|--------------|
 | 1    | 240 g      | 25.6 Celsius        | 93.9 Celsius      | 68.3 Celsius            | 79 Seconds   |
@@ -18,3 +20,6 @@ What percentage of energy consumed by my home electric kettle is directly conver
 | 10   | 960 g      | 15.6 Celsius        | 93.9 Celsius      | 78.3 Celsius            | 280 Seconds  |
 | 11   | 1080 g     | 14.4 Celsius        | 95.6 Celsius      | 81.2 Celsius            | 318 Seconds  |
 | 12   | 1080 g     | 21.1 Celsius        | 95.0 Celsius      | 73.9 Celsius            | 296 Seconds  |
+
+### Equations
+
