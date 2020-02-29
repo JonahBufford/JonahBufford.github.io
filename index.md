@@ -53,3 +53,5 @@ This table shows the change in thermal energy, energy consumption, and percent o
 This graph shows what percentage of the electrical energy that was consumed by the kettle, organized by mass of the water:
 
 ![](EnergyGraph.PNG)
+
+
