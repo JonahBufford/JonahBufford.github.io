@@ -39,8 +39,8 @@ This table shows the change in thermal energy, energy consumption, and percent o
 |------|----------------------------|-----------------|-----------------------------|
 | 1    | 6.9 * 10^5 J               | 1.2 * 10^6 J    | 57.5 %                      |
 | 2    | 6.3 * 10^5 J               | 1.1 * 10^6 J    | 57.3 %                      |
-| 3    | 1.4 * 10^6 J               | 2.1 * 10^6 J    | 62.0 %                      |
-| 4    | 1.3 * 10^6 J               | 2.0 * 10^6 J    | 70.0 %                      |
+| 3    | 1.4 * 10^6 J               | 2.1 * 10^6 J    | 67.0 %                      |
+| 4    | 1.3 * 10^6 J               | 2.0 * 10^6 J    | 65.0 %                      |
 | 5    | 1.8 * 10^6 J               | 2.5 * 10^6 J    | 72.0 %                      |
 | 6    | 1.9 * 10^6 J               | 2.7 * 10^6 J    | 70.4 %                      |                
 | 7    | 2.3 * 10^6 J               | 3.3 * 10^6 J    | 69.7 %                      |
@@ -54,4 +54,11 @@ This graph shows what percentage of the electrical energy that was consumed by t
 
 ![](massToEnergy.PNG)
 
+### Conclusion
 
+Based on the graph, it appears that energy efficiency increases as the mass of the water being heated increases. The suggested water quantity for the kettle is 0.5 to 1 liter; tests 1 through 4 are below that level, and there seems to be a noticeable increase in efficiency when the water mass crosses that threshold. In general, outside of the tests below the minimum water level, the kettle appears to convert between 70 and 80 percent of energy used into thermal energy in the water, increasing as the water mass increases.
+
+### Citation
+
+[1] "Energy, temperature and change of state". Bitesize, BBC, 2020. https://www.bbc.co.uk/bitesize/guides/zg6bdxs/revision/3
+[2] Knight, Randall D. "Physics for Scientists and Engineers: a strategic approach with modern physics". Fourth Edition. Boston: Pearson Education, Inc, 2015-2017.
