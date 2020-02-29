@@ -25,8 +25,9 @@ This table shows the raw measurements taken during the tests. Temperature was ta
 
 There are two main equations used for this experiment:
 
-Equation 1: change in thermal energy = mass × specific heat capacity × change in temperature
-Equation 2: energy = power * time
+Equation 1: change in thermal energy = mass × specific heat capacity × change in temperature [1]
+
+Equation 2: energy = power * time [2]
 
 The specific heat capacity of water is 4.2 J/kg°C [1]. The change of thermal energy in the water can be found by using Equation 1 with this constant. The kettle consumes 1500 watts of power. Using that in Equation 2 with with the heating time can be used to determine the total energy consumed by the kettle.
 
@@ -51,4 +52,4 @@ This table shows the change in thermal energy, energy consumption, and percent o
 
 This graph shows what percentage of the electrical energy that was consumed by the kettle, organized by mass of the water:
 
-![](EnergyGraph.png)
+![](EnergyGraph.PNG)
