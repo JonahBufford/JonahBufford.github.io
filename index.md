@@ -61,4 +61,5 @@ Based on the graph, it appears that energy efficiency increases as the mass of t
 ### Citation
 
 [1] "Energy, temperature and change of state". Bitesize, BBC, 2020. https://www.bbc.co.uk/bitesize/guides/zg6bdxs/revision/3
+
 [2] Knight, Randall D. "Physics for Scientists and Engineers: a strategic approach with modern physics". Fourth Edition. Boston: Pearson Education, Inc, 2015-2017.
