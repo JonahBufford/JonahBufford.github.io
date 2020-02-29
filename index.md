@@ -56,7 +56,7 @@ This graph shows what percentage of the electrical energy that was consumed by t
 
 ### Conclusion
 
-Based on the graph, it appears that energy efficiency increases as the mass of the water being heated increases. The suggested water quantity for the kettle is 0.5 to 1 liter; tests 1 through 4 are below that level, and there seems to be a noticeable increase in efficiency when the water mass crosses that threshold. In general, outside of the tests below the minimum water level, the kettle appears to convert between 70 and 80 percent of energy used into thermal energy in the water, increasing as the water mass increases.
+Based on the graph, it appears that energy efficiency increases as the mass of the water being heated increases. The suggested water quantity for the kettle is 0.5 to 1 liter; tests 1 through 4 are have a mass of less than 500 g, and thus a volume of less than 0.5 L, and there seems to be a noticeable increase in efficiency when the water mass crosses that threshold. In general, outside of the tests below the minimum water level, the kettle appears to convert between 70 and 80 percent of energy used into thermal energy in the water, increasing as the water mass increases.
 
 ### Citation
 
