@@ -49,4 +49,6 @@ This table shows the change in thermal energy, energy consumption, and percent o
 | 11   | 3.7 * 10^6 J               | 4.8 * 10^6 J    | 77.1 %                      |
 | 12   | 3.4 * 10^6 J               | 4.4 * 10^6 J    | 77.3 %                      |
 
-This graph shows what percentage of the electrical energy that was consumed by the kettle, organized by mass of the water.
+This graph shows what percentage of the electrical energy that was consumed by the kettle, organized by mass of the water:
+
+![](EnergyGraph.png)
